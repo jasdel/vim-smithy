@@ -1,0 +1,6 @@
+{
+  "name": "vim-smithy",
+  "description": "Basic vim syntax highlighting for Smithy IDL models",
+  "author": "Jason Del Ponte",
+  "repository" : {"type": "git", "url": "https://github.com/jasdel/vim-smithy.git"}
+}
