@@ -1,6 +1,4 @@
 " Smithy vim configuration
 "-------------------------
 
-au FileType smithy set shiftwidth=4
-au FileType smithy set softtabstop=4
-au FileType smithy set tabstop=4
+set tabstop=8 softtabstop=0 expandtab shiftwidth=4 smarttab
